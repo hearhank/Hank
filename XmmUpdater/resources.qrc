@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/button_white_2_h.png</file>
+        <file>Resources/button_white_2_n.png</file>
+        <file>Resources/button_white_2_p.png</file>
+        <file>Resources/custom_path_bg.png</file>
+        <file>Resources/custom_path_button_n.png</file>
+        <file>Resources/custom_path_button_p.png</file>
+        <file>Resources/dialog_close_h.png</file>
+        <file>Resources/dialog_close_n.png</file>
+        <file>Resources/dialog_close_p.png</file>
+        <file>Resources/icon.ico</file>
+        <file>Resources/icon-16.ico</file>
+        <file>Resources/icon-24.ico</file>
+        <file>Resources/install_bg.png</file>
+        <file>Resources/install_button_n.png</file>
+        <file>Resources/install_button_p.png</file>
+        <file>Resources/install_logo.png</file>
+        <file>Resources/install_progress_bg.png</file>
+        <file>Resources/install_progress_fg.png</file>
+        <file>Resources/login_main_logo.png</file>
+        <file>Resources/main_maximize_h.png</file>
+        <file>Resources/main_maximize_n.png</file>
+        <file>Resources/main_maximize_p.png</file>
+        <file>Resources/main_minimize_h.png</file>
+        <file>Resources/main_minimize_n.png</file>
+        <file>Resources/main_minimize_p.png</file>
+        <file>Resources/main_restore_h.png</file>
+        <file>Resources/main_restore_n.png</file>
+        <file>Resources/main_restore_p.png</file>
+        <file>Resources/Main_Setting_bg.png</file>
+        <file>Resources/Main_Setting_bg1.png</file>
+        <file>Resources/MainBg.png</file>
+        <file>Resources/sysmessagebox_errorFile.png</file>
+        <file>Resources/sysmessagebox_inforFile.png</file>
+        <file>Resources/sysmessagebox_okFile.png</file>
+        <file>Resources/sysmessagebox_questionFile.png</file>
+        <file>Resources/sysmessagebox_warningFile.png</file>
+        <file>Resources/system_icon.ico</file>
+    </qresource>
+</RCC>
